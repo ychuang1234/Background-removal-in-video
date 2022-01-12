@@ -18,5 +18,6 @@ Normal convolution could be deal with data with regular coordination (e.g., Cart
  <p align="center">
 <img src="https://github.com/ychuang1234/Background-removal-in-video/blob/bc25edb685690ccf6d60c3991704dd1fbe9b47a7/result_fgmk.JPG" width="80%"></p>
  
+  <p align="center">
+<img src="https://github.com/ychuang1234/Background-removal-in-video/blob/bc25edb685690ccf6d60c3991704dd1fbe9b47a7/result_rect.gif" width="80%"></p>
  
-![Alt Text](https://github.com/ychuang1234/Background-removal-in-video/blob/bc25edb685690ccf6d60c3991704dd1fbe9b47a7/result_rect.gif)
