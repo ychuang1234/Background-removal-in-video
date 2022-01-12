@@ -2,7 +2,7 @@
 <h2 align="center">  
  
  ## Goal
- Construct mixture of gaussian model (GMM) to each pixel from each video frame and the **gaussain with larger prior distribution** are more likely to be the **static background**.
+ Construct mixture of gaussian model (GMM) to each pixel and the **gaussain with larger prior distribution** are more likely to be the **static background**.
  
   ## Discription
   
