@@ -10,7 +10,7 @@
  Background modelling is the task of extracting the static background from a sequence of video frames. Once the background has been modelled, a technique called background subtraction which allows an image’s foreground to be extracted for further processing (object recognition etc.)
  
  ### (2) Generate the foreground mask through substracting input frame and background image
-Background subtraction (BS) is a common and widely used technique for generating a foreground mask by using static cameras. BS calculates the foreground mask performing a subtraction between the current frame and a background model, containing the static part of the scene.
+Background subtraction is a common and widely used technique for generating a foreground mask by using static cameras. BS calculates the foreground mask performing a subtraction between the current frame and a background model, containing the static part of the scene.
 
  
  ## Result
